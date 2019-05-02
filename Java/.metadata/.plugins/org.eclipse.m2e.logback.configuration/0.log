@@ -1861,3 +1861,4 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2019-04-30 16:01:54,431 [Worker-27: Download sources and javadoc] WARN  o.e.m.j.internal.DownloadSourcesJob - IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/demo
 2019-04-30 16:01:54,447 [Worker-27: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-core:5.1.5.RELEASE
 2019-04-30 16:01:54,447 [Worker-27: Download sources and javadoc] WARN  o.e.m.j.internal.DownloadSourcesJob - IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/demo
+2019-05-02 12:40:03,806 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
